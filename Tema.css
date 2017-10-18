@@ -452,8 +452,8 @@
 }
 	/*## [TAG-VIP] ##*/
 	
-       /*# [ninguem] #*/
-#user-rollover.id-000000 .level:after {
+       /*# [Koryoshe] #*/
+#user-rollover.id-5417955 .level:after {
     background-image: url(none);
     background-repeat: no-repeat;
     content: "[VIP]";
@@ -759,8 +759,8 @@
     position: relative;
 }
         /*# [TAG-VIP] #*/
-		/*# ninguem #*/
-#chat [data-cid^='000000-'] .un:before {
+		/*# Koryoshe #*/
+#chat [data-cid^='5417955-'] .un:before {
     content: '[VIP]';
     top: 0px;
     Left: 0px;
